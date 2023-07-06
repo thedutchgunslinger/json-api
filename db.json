@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "uren": [
+    {
+      "id": 1,
+      "uren": 8,
+      "opdracht": "CodeCafe",
+      "datum": "2023-01-01",
+      "opmerking": "Eerste dag"
+    },
+    {
+      "id": 2,
+      "uren": 4,
+      "opdracht": "GLU",
+      "datum": "2023-01-02",
+      "opmerking": "Tweede dag"
+    },
+    {
+      "id": 3,
+      "uren": 4,
+      "opdracht": "CodeCafe",
+      "datum": "2023-01-02",
+      "opmerking": "Tweede dag"
+    },
+    {
+      "datum": "2023-07-05",
+      "uren": 8,
+      "opdracht": "GLU",
+      "id": 4
+    },
+    {
+      "datum": "2023-07-06",
+      "uren": 4,
+      "opdracht": "CodeCafe",
+      "id": 5
+    },
+    {
+      "datum": "2023-07-15",
+      "uren": 4,
+      "opdracht": "CodeCafe",
+      "opmerking": "yeet",
+      "id": 6
+    }
+  ]
 }
